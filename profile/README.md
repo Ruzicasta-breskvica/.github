@@ -3,9 +3,13 @@
   <img src="https://github.com/Ruzicasta-breskvica/.github/blob/main/assets/pmnLogoPink.8c3e56b4.svg" alt="Ružičasta breskvica logo" width="200"/>
 </p>
 
+<p align="center">
+  <em>Let's build something amazing together.</em>
+</p>
+
 # Ružičasta breskvica
 
-- **Your partner in navigating the digital frontier.**
+**Your partner in navigating the digital frontier.**
 
 </p>
 
@@ -23,6 +27,9 @@ Join us as we continue to grow and innovate alongside our clients.
 - **Consultancy**  
   Innovative solutions and insights for your toughest tech challenges.
 
+- **Development**  
+  End-to-end technical solutions to bring your ideas to life.
+
 - **Advertising**  
   Decades of expertise in digital advertising to maximize your reach and ROI.
 
@@ -38,9 +45,6 @@ Join us as we continue to grow and innovate alongside our clients.
 - **Integrations**  
   Seamless integration of business tools to boost productivity.
 
-- **Development**  
-  End-to-end technical solutions to bring your ideas to life.
-
 
 ## Company Info
 
@@ -51,7 +55,3 @@ IBAN: HR9623400091110490973
 Office: Đorđićeva 19, Zagreb, Croatia
 
 ---
-
-<p align="center">
-  <em>Let's build something amazing together.</em>
-</p>

@@ -53,5 +53,3 @@ Lukšić 10A, Zagreb, Croatia
 OIB/VAT: HR78969777274  
 IBAN: HR9623400091110490973  
 Office: Đorđićeva 19, Zagreb, Croatia
-
----
